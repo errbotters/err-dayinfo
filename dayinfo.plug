@@ -1,0 +1,9 @@
+[Core]
+Name = DayInfo
+Module = dayinfo
+
+[Documentation]
+Description = Know the info about specific day
+
+[Python]
+Version = 2+
